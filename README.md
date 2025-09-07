@@ -8,9 +8,7 @@ Docdoc is a Flutter-based telemedicine platform that connects patients with heal
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1KwKZ4ic5PyeOHSjF1_v5gm3D3xjCamCB/view?usp=sharing" target="_blank">
-
-    <br>
-    <b>Watch Demo</b>
+    <b>▶ Watch Demo</b>
   </a>
 </p>
 
@@ -43,7 +41,6 @@ Docdoc is a Flutter-based telemedicine platform that connects patients with heal
 ## Project Structure
 
 
-## Project Structure
 
 ```
 lib/
