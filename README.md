@@ -1,8 +1,6 @@
 # Docdoc - Telemedicine Application
 
-<p align="center">
-  <img src="assets/images/doc_logo.png" alt="Docdoc Logo" width="200"/>
-</p>
+
 
 ## Overview
 
@@ -12,7 +10,7 @@ Docdoc is a Flutter-based telemedicine platform that connects patients with heal
 
 <p align="center">
   <a href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://drive.google.com/file/d/1KwKZ4ic5PyeOHSjF1_v5gm3D3xjCamCB/view?usp=sharing)" target="_blank">
-    <img src="assets/images/doc_logo.png" alt="Watch Demo Video" width="300"/>
+
     <br>
     <b>Demo</b>
   </a>
