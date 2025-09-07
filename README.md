@@ -1,7 +1,5 @@
 # Docdoc - Telemedicine Application
 
-
-
 ## Overview
 
 Docdoc is a Flutter-based telemedicine platform that connects patients with healthcare providers. The app enables users to book virtual or in-person consultations, search for specialists, manage appointments, and communicate with doctors.
@@ -9,10 +7,10 @@ Docdoc is a Flutter-based telemedicine platform that connects patients with heal
 ## Demo Video
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://drive.google.com/file/d/1KwKZ4ic5PyeOHSjF1_v5gm3D3xjCamCB/view?usp=sharing)" target="_blank">
-
+  <a href="https://drive.google.com/file/d/1KwKZ4ic5PyeOHSjF1_v5gm3D3xjCamCB/view?usp=sharing" target="_blank">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Docdoc Demo" width="600">
     <br>
-    <b>Demo</b>
+    <b>Watch Demo</b>
   </a>
 </p>
 
@@ -41,6 +39,9 @@ Docdoc is a Flutter-based telemedicine platform that connects patients with heal
 ### Payment Integration
 - Support for multiple payment methods
 - Track payment history
+
+## Project Structure
+
 
 ## Project Structure
 
